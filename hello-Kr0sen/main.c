@@ -1,5 +1,5 @@
-int main(){
-    printf("Hello World!");
-    system("PAUSE");
+int main()
+{
+    printf("Hello World!\n");
     return 0;
 }
